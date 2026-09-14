@@ -13,8 +13,8 @@
 
   <ItemGroup>
     <!-- Roslyn surface for the Money/Engine analysers (and their test harnesses). -->
-    <PackageVersion Include="Microsoft.CodeAnalysis.CSharp" Version="5.6.0" />
-    <PackageVersion Include="Microsoft.CodeAnalysis.Analyzers" Version="5.6.0" />
+    <PackageVersion Include="Microsoft.CodeAnalysis.CSharp" Version="5.9.0" />
+    <PackageVersion Include="Microsoft.CodeAnalysis.Analyzers" Version="5.9.0" />
 
     <!-- PostgreSQL data access (EventStore, RateSheets, migrations). -->
     <PackageVersion Include="Npgsql" Version="10.0.3" />
